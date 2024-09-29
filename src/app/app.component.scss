@@ -1,0 +1,11 @@
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  max-width: none !important;
+}
+
+.outler-container {
+  display: flex;
+  flex: 1;
+}
